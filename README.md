@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-Welcome 
+                                                <h1>Welcome </h1>
 Greetings and welcome to my GitHub repository! This is the place where my passion for front-end development and creative coding takes center stage .
 
 Here, you'll find an assortment of projects and code snippets that reflect my skills as a front-end developer. From crafting responsive layouts to adding interactivity with JavaScript, I strive to create captivating web experiences that engage and inspire.
@@ -28,5 +28,3 @@ And there's a link to my social media handle where i display my guitar playing s
 Let's create exceptional user experiences and make the web a better place, one line of code at a time!
 
 Thank you for visiting, and happy coding!
-
-anyiamvictor
