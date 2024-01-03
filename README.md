@@ -19,4 +19,4 @@ Welcome to my GitHub space........
 
 Let's create exceptional user experiences and make the web a better place, one line of code at a time!
 
-Thank you for visiting, and happy coding!
+Thank you for visiting, and happy viewing!
